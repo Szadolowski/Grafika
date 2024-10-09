@@ -6,4 +6,4 @@
 ![Szadolowski](https://github.com/Szadolowski/Grafika/blob/main/Szadolowski.jpeg)
 ## Wolf
 ![Wolf](https://github.com/Szadolowski/Grafika/blob/main/Wolf.jpg)
-* Projekt miał większe wybiary i lepszą jakość lecz nie posiadam aktualnie lepszego pliku *
+* Projekt miał większe wymiary i lepszą jakość lecz nie posiadam aktualnie lepszego pliku *
